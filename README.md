@@ -1,2 +1,2 @@
 # soccer-analysis
-Analyzing goal trends.
+Analyzing goal trends of the soccer game.
